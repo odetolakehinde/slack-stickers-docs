@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "SlackStickers",
+  "name": "Stickers for Slack",
   "logo": "./images/slack-sticker.svg",
   "favicon": "/favicon.svg",
   "colors": {
@@ -60,7 +60,7 @@
   ],
   "footerSocials": {
     "x": "https://x.com/slackstickers",
-    "github": "https://github.com/slackstickers",
+	"github": "https://github.com/odetolakehinde/slack-stickers-be",
     "linkedin": "https://linkedin.com/company/slackstickers"
   }
 }
